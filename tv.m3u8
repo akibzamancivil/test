@@ -1,4 +1,9 @@
 ##EXTM3U
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="jomuna" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="News 24/7",jomuna tv
-
 http://172.31.100.200:8080/JamunaTV/tracks-a1/index.fmp4.m3u8?token=8682091ce8d2cda82e9c58388abfc2b068713f14-2386b23a6179734b17533be880d2f0f2-1743338635-1743327835
+#EXTINF:-1 tvg-id="News 24/7" tvg-name="t sports" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="News 24/7",T
+
+http://172.31.100.200:8080/TSports/tracks-a1/index.fmp4.m3u8?token=9b7c0536ce23f602396a345f9f5ce60a581ddfc7-b06d0f1d5e61ac14d5831e8f47f79480-1743339077-1743328277
+#EXTINF:-1 tvg-id="News 24/7" tvg-name="t sports1" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="News 24/7",T1
+
+http://172.31.100.200:8080/TSports/tracks-v1/index.fmp4.m3u8?token=9b7c0536ce23f602396a345f9f5ce60a581ddfc7-b06d0f1d5e61ac14d5831e8f47f79480-1743339077-1743328277
