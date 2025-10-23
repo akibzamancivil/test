@@ -1,5 +1,5 @@
 ##EXTM3U
-#EXTINF:-1 tvg-id="xx" fancird" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="News 24/7",jomuna tv
+#EXTINF:-1 tvg-id="xx" fancird" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="cricket",fancird
 https://bd-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="t sports" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" group-title="News 24/7",T
 
